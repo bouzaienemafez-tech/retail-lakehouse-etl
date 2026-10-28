@@ -1,0 +1,6 @@
+data/bronze/
+data/silver/
+data/gold/
+data/source/
+__pycache__/
+.DS_Store
